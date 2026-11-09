@@ -1,8 +1,6 @@
 MG_PROJECT_ROOT=/path/to/existing/project
 MG_LPC_ROOT=/path/to/LPC/project
-MG_WORKSPACE_ROOT=/path/to/approved/workspace
-MG_CONDA_ACTIVATE=/path/to/conda/bin/activate
-# MG_OUTPUT_ROOT is optional; default is this code repository outputs directory.
-# Set required MG_EXTERNAL_* paths from config/path_aliases.csv before a reviewed analysis run.
-
+MG_WORKSPACE_ROOT=/path/to/analysis/workspace
 MG_PLOT_INPUT_ROOT=/path/to/experimental/plotting/tables
+MG_OUTPUT_ROOT=/path/to/output/directory
+# Set the four MERFISH input paths listed in config/path_aliases.csv.
