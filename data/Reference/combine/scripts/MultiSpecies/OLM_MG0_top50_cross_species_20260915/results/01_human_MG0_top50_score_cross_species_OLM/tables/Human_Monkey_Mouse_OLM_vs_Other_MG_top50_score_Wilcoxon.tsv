@@ -1,0 +1,4 @@
+Species	OLM_definition	OLM_cells	Other_MG_cells	OLM_mean_module_score	OLM_median_module_score	Other_MG_mean_module_score	Other_MG_median_module_score	Wilcoxon_W	p_value_unadjusted	p_value_BH_three_species	plot_significance
+Human	CellType1 == MG0	3181	18063	0.962341977076373	0.958175219045013	-0.115837881056258	-0.114773409092782	57165217	0	0	****
+Monkey	integrated_snn_res.0.1 == 1	504	8695	0.870694299061578	0.89841561153718	-0.105951100523023	-0.113900531457824	4378869	0	0	****
+Mouse	integrated_snn_res.0.1 == 1	1672	9618	0.548050901754546	0.553139122023638	-0.15085640462778	-0.16060425997552	16076503	0	0	****

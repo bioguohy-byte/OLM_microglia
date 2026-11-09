@@ -1,0 +1,42 @@
+#!/usr/bin/env Rscript
+suppressPackageStartupMessages({library(Seurat); library(qs); library(jsonlite)})
+args <- commandArgs(trailingOnly = TRUE)
+stopifnot(length(args) == 1L)
+task <- normalizePath(args[[1]], mustWork = TRUE)
+source <- file.path(Sys.getenv("MG_PROJECT_ROOT"), "Reference/Yao_et_al./data/saved_data/SeuratObj.Celltype_Minor3.Stage.v11.qs")
+target <- file.path(Sys.getenv("MG_PROJECT_ROOT"), "Reference/combine/results/source_celltype_umap_20260920/revisions/20261016_celltype_labels_on_umap_no_boxes/plot_data/Yao_labels_umap.rds")
+before <- file.info(source)
+message(format(Sys.time(), "%F %T"), " Reading author object, metadata extraction only")
+obj <- qs::qread(source, nthreads = 2)
+cells <- colnames(obj)
+meta <- obj@meta.data
+stopifnot(identical(rownames(meta), cells), !anyDuplicated(cells))
+reductions <- lapply(obj@reductions, function(x) x@cell.embeddings)
+info <- list(source = source, size_bytes = unname(before$size), mtime = as.character(before$mtime),
+             object_class = class(obj), n_cells = length(cells), n_genes = nrow(obj),
+             metadata_columns = colnames(meta), reductions = names(reductions))
+bundle <- list(cells = cells, metadata = meta, reductions = reductions,
+               active_ident = obj@active.ident, source = info)
+saveRDS(bundle, file.path(task, "inputs/author_metadata_umaps.rds"))
+write.csv(meta, file.path(task, "audit/author_metadata.csv"), row.names = TRUE)
+counts <- lapply(colnames(meta), function(col) {
+  v <- as.character(meta[[col]])
+  if (length(unique(v)) > 100L) return(NULL)
+  t <- sort(table(v, useNA = "ifany"), decreasing = TRUE)
+  data.frame(column = col, value = names(t), n_cells = as.integer(t), stringsAsFactors = FALSE)
+})
+counts <- do.call(rbind, counts)
+write.csv(counts, file.path(task, "audit/author_metadata_category_counts.csv"), row.names = FALSE)
+current <- readRDS(target)
+idx <- match(current$cells, cells)
+info$target_bundle <- target
+info$target_n_cells <- length(current$cells)
+info$exact_barcode_matches <- sum(!is.na(idx))
+info$target_id_examples <- head(current$cells)
+info$author_id_examples <- head(cells)
+info$source_unchanged_size_mtime <- identical(before[, c("size", "mtime")], file.info(source)[, c("size", "mtime")])
+jsonlite::write_json(info, file.path(task, "audit/author_object_inventory.json"), pretty = TRUE, auto_unbox = TRUE)
+writeLines(capture.output(sessionInfo()), file.path(task, "audit/extraction_sessionInfo.txt"))
+print(info)
+print(counts[grepl("Major|Minor|type|Type|Stage", counts$column), ], row.names = FALSE)
+message("AUTHOR_METADATA_EXTRACTION_COMPLETE")

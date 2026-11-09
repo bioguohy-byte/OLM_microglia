@@ -1,0 +1,4 @@
+"Dataset","Target_label","Target_definition","Target_cells","Total_microglia_cells","Target_percent","Other_MG_cells","Other_MG_percent"
+"LPC (GSE148676, mouse)","OLM","merged_cluster == 1",6833,52253,13.0767611429009,45420,86.9232388570991
+"Monkey","MG0-like","integrated_snn_res.0.1 == 1",504,9199,5.4788563974345,8695,94.5211436025655
+"Mouse","MG0-like","integrated_snn_res.0.1 == 1",1672,11290,14.8095659875996,9618,85.1904340124004

@@ -1,0 +1,101 @@
+"group","Description","pvalue","ratio"
+"C2","nuclear chromosome segregation",9.40643142585192e-06,18.1818181818182
+"C2","nuclear division",1.01038736479926e-05,21.2121212121212
+"C2","organelle fission",1.93200259903501e-05,21.2121212121212
+"C2","chromosome segregation",2.79765247579073e-05,18.1818181818182
+"C2","negative regulation of cell cycle phase transition",7.67979103524069e-05,15.1515151515152
+"C2","cellular response to oxidative stress",0.000127443990529186,15.1515151515152
+"C2","negative regulation of cell cycle process",0.000167201426137598,15.1515151515152
+"C2","cell cycle checkpoint",0.000215191970532923,12.1212121212121
+"C2","mitotic sister chromatid segregation",0.00022007469978973,12.1212121212121
+"C2","cellular response to chemical stress",0.000263446478722341,15.1515151515152
+"C2","meiotic nuclear division",0.000315870601764334,12.1212121212121
+"C2","cellular response to thyroid hormone stimulus",0.000399713856558321,6.06060606060606
+"C2","response to reactive oxygen species",0.000422539219462031,12.1212121212121
+"C2","sister chromatid segregation",0.000438484491176922,12.1212121212121
+"C2","meiotic cell cycle process",0.000454855716326492,12.1212121212121
+"C2","DNA duplex unwinding",0.000521682037270846,9.09090909090909
+"C2","negative regulation of cell cycle",0.000531715466467589,15.1515151515152
+"C2","regulation of cellular response to oxidative stress",0.000556321238105741,9.09090909090909
+"C2","positive regulation of ERK1 and ERK2 cascade",0.000572105205124558,12.1212121212121
+"C2","positive regulation of lipid localization",0.000592401078115873,9.09090909090909
+"C2","negative regulation of bone mineralization",0.000614499831261897,6.06060606060606
+"C2","DNA geometric change",0.000629945948236628,9.09090909090909
+"C2","production of molecular mediator involved in inflammatory response",0.000649275314684581,9.09090909090909
+"C2","cell death in response to oxidative stress",0.000668979957727612,9.09090909090909
+"C2","hormone metabolic process",0.000675871939431015,12.1212121212121
+"C2","regulation of cell cycle phase transition",0.000729420933920946,15.1515151515152
+"C2","collagen metabolic process",0.000730375159092789,9.09090909090909
+"C2","regulation of response to oxidative stress",0.000730375159092789,9.09090909090909
+"C2","decidualization",0.0007387021552431,6.06060606060606
+"C2","DNA conformation change",0.000773235663139816,9.09090909090909
+"C2","response to oxidative stress",0.000882826572269996,15.1515151515152
+"C2","reproductive structure development",0.000882826572269996,15.1515151515152
+"C2","reproductive system development",0.000910572355557898,15.1515151515152
+"C2","positive regulation of lipid storage",0.00102035024134605,6.06060606060606
+"C2","meiotic cell cycle",0.00116081807428247,12.1212121212121
+"C2","response to thyroid hormone",0.00117764699295202,6.06060606060606
+"C2","antigen processing and presentation of exogenous peptide antigen via MHC class II",0.00126038112665644,6.06060606060606
+"C2","negative regulation of biomineral tissue development",0.00126038112665644,6.06060606060606
+"C2","double-strand break repair",0.00127760603396451,12.1212121212121
+"C2","DNA integrity checkpoint",0.00129194766785336,9.09090909090909
+"C2","negative regulation of biomineralization",0.0013458268084021,6.06060606060606
+"C2","maternal placenta development",0.00152481607794173,6.06060606060606
+"C2","positive regulation of MAPK cascade",0.00154400017305742,15.1515151515152
+"C2","antigen processing and presentation of peptide antigen via MHC class II",0.00161834135220508,6.06060606060606
+"C2","mitotic nuclear division",0.0016564441760996,12.1212121212121
+"C2","antigen processing and presentation of peptide or polysaccharide antigen via MHC class II",0.00181340756193134,6.06060606060606
+"C2","negative regulation of ossification",0.00191493031650251,6.06060606060606
+"C2","antigen processing and presentation of exogenous peptide antigen",0.00201910075363528,6.06060606060606
+"C2","regulation of ERK1 and ERK2 cascade",0.0020589312112967,12.1212121212121
+"C2","regulation of response to reactive oxygen species",0.00212590983784157,6.06060606060606
+"C2","placenta development",0.00215186010482985,9.09090909090909
+"C2","cellular response to reactive oxygen species",0.00215186010482985,9.09090909090909
+"C2","DNA recombination",0.002388742222682,12.1212121212121
+"C2","collagen catabolic process",0.00246207894626601,6.06060606060606
+"C2","regulation of lipid localization",0.00250139865998199,9.09090909090909
+"C2","positive regulation of cell cycle",0.00252477875312342,12.1212121212121
+"C2","ERK1 and ERK2 cascade",0.00269497624648702,12.1212121212121
+"C2","intrinsic apoptotic signaling pathway in response to oxidative stress",0.00282167269812833,6.06060606060606
+"C2","cellular response to amyloid-beta",0.00282167269812833,6.06060606060606
+"C2","double-strand break repair via homologous recombination",0.00283453237297993,9.09090909090909
+"C2","recombinational repair",0.00293449486988033,9.09090909090909
+"C2","ribonucleotide catabolic process",0.00294670115217528,6.06060606060606
+"C2","antigen processing and presentation of exogenous antigen",0.00307429675403274,6.06060606060606
+"C2","carbohydrate derivative catabolic process",0.00319385787074331,9.09090909090909
+"C2","biomineral tissue development",0.00324736683901056,9.09090909090909
+"C2","chromosome condensation",0.00333715406265965,6.06060606060606
+"C2","biomineralization",0.00335603607827559,9.09090909090909
+"C2","purine-containing compound catabolic process",0.00347239815386433,6.06060606060606
+"C2","peptidyl-tyrosine phosphorylation",0.00396009164671954,12.1212121212121
+"C2","negative regulation of mitotic cell cycle phase transition",0.00399367437715523,9.09090909090909
+"C2","negative regulation of oxidative stress-induced cell death",0.00403860624826775,6.06060606060606
+"C2","peptidyl-tyrosine modification",0.00407450614068809,12.1212121212121
+"C2","regulation of lipid storage",0.00418642259251044,6.06060606060606
+"C2","response to amyloid-beta",0.00418642259251044,6.06060606060606
+"C2","reciprocal meiotic recombination",0.00448951170652207,6.06060606060606
+"C2","reciprocal homologous recombination",0.00448951170652207,6.06060606060606
+"C2","maternal process involved in female pregnancy",0.00464476720110735,6.06060606060606
+"C2","lipid transport",0.00468044626377486,12.1212121212121
+"C2","homologous recombination",0.00480248517240807,6.06060606060606
+"C2","lipopolysaccharide-mediated signaling pathway",0.00529032820158725,6.06060606060606
+"C2","positive regulation of interleukin-1 beta production",0.00529032820158725,6.06060606060606
+"C2","antigen processing and presentation of peptide antigen",0.00545781043938929,6.06060606060606
+"C2","zymogen activation",0.00562771243822931,6.06060606060606
+"C2","regulation of neuron apoptotic process",0.005628290681987,9.09090909090909
+"C2","long-chain fatty acid transport",0.00597474181742801,6.06060606060606
+"C2","positive regulation of mononuclear cell migration",0.00597474181742801,6.06060606060606
+"C2","monocyte chemotaxis",0.00669746595023717,6.06060606060606
+"C2","regulation of double-strand break repair via homologous recombination",0.00669746595023717,6.06060606060606
+"C2","nucleotide catabolic process",0.00707302650233447,6.06060606060606
+"C2","chromosome organization involved in meiotic cell cycle",0.00707302650233447,6.06060606060606
+"C2","mitotic cell cycle phase transition",0.00707916983695991,12.1212121212121
+"C2","positive regulation of interleukin-1 production",0.00726432720492593,6.06060606060606
+"C2","lipid localization",0.00741976257837406,12.1212121212121
+"C2","cytokine production involved in inflammatory response",0.00765392798616484,6.06060606060606
+"C2","regulation of cytokine production involved in inflammatory response",0.00765392798616484,6.06060606060606
+"C2","regulation of DNA-binding transcription factor activity",0.00777108157860903,12.1212121212121
+"C2","negative regulation of mitotic cell cycle",0.00788725752337098,9.09090909090909
+"C2","regulation of oxidative stress-induced cell death",0.00805280620347095,6.06060606060606
+"C2","protein monoubiquitination",0.00825570377718781,6.06060606060606
+"C2","neuron apoptotic process",0.00854843597109421,9.09090909090909

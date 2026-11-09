@@ -1,0 +1,101 @@
+"group","Description","pvalue","ratio"
+"C5","learning",0.00028229356329098,17.6470588235294
+"C5","neuromuscular process",0.000324224956197706,17.6470588235294
+"C5","modulation of chemical synaptic transmission",0.000502596396317429,23.5294117647059
+"C5","regulation of trans-synaptic signaling",0.000507032479155512,23.5294117647059
+"C5","mammary gland morphogenesis",0.000711978455041362,11.7647058823529
+"C5","neuromuscular process controlling balance",0.000882732143761889,11.7647058823529
+"C5","skeletal muscle cell differentiation",0.00154807826830819,11.7647058823529
+"C5","learning or memory",0.00160913678482271,17.6470588235294
+"C5","cognition",0.00245145199567821,17.6470588235294
+"C5","female gonad development",0.00397831637938548,11.7647058823529
+"C5","development of primary female sexual characteristics",0.00427962006190772,11.7647058823529
+"C5","memory",0.00532973118166735,11.7647058823529
+"C5","muscle tissue development",0.00539032619941347,17.6470588235294
+"C5","gland morphogenesis",0.00541495333752482,11.7647058823529
+"C5","female sex differentiation",0.00550080503042461,11.7647058823529
+"C5","regulation of postsynaptic membrane potential",0.00611930420157376,11.7647058823529
+"C5","mammary gland development",0.00648641798374389,11.7647058823529
+"C5","regulation of nervous system process",0.0067682332080936,11.7647058823529
+"C5","regulation of ion transmembrane transport",0.00841973873754471,17.6470588235294
+"C5","skeletal muscle tissue development",0.00846867043564405,11.7647058823529
+"C5","cardiac ventricle formation",0.00900799389341844,5.88235294117647
+"C5","egg activation",0.00900799389341844,5.88235294117647
+"C5","retrograde trans-synaptic signaling",0.00900799389341844,5.88235294117647
+"C5","skeletal muscle organ development",0.00977296929827383,11.7647058823529
+"C5","noradrenergic neuron differentiation",0.00990458059399379,5.88235294117647
+"C5","sequestering of actin monomers",0.00990458059399379,5.88235294117647
+"C5","response to ether",0.00990458059399379,5.88235294117647
+"C5","limb bud formation",0.00990458059399379,5.88235294117647
+"C5","embryonic camera-type eye formation",0.00990458059399379,5.88235294117647
+"C5","cornea development in camera-type eye",0.00990458059399379,5.88235294117647
+"C5","postsynaptic membrane assembly",0.00990458059399379,5.88235294117647
+"C5","negative regulation of neuron migration",0.00990458059399379,5.88235294117647
+"C5","auditory behavior",0.0108004037953304,5.88235294117647
+"C5","inositol trisphosphate metabolic process",0.0108004037953304,5.88235294117647
+"C5","ectodermal placode formation",0.0108004037953304,5.88235294117647
+"C5","ectodermal placode morphogenesis",0.0108004037953304,5.88235294117647
+"C5","positive regulation of acrosome reaction",0.0108004037953304,5.88235294117647
+"C5","regulation of reproductive process",0.0108064414401815,11.7647058823529
+"C5","negative regulation of glial cell proliferation",0.0116954641069904,5.88235294117647
+"C5","eyelid development in camera-type eye",0.0116954641069904,5.88235294117647
+"C5","ectodermal placode development",0.0116954641069904,5.88235294117647
+"C5","cardiac chamber formation",0.0125897621380853,5.88235294117647
+"C5","activation of transmembrane receptor protein tyrosine kinase activity",0.0125897621380853,5.88235294117647
+"C5","mechanosensory behavior",0.0125897621380853,5.88235294117647
+"C5","regulation of synapse maturation",0.0125897621380853,5.88235294117647
+"C5","postsynaptic modulation of chemical synaptic transmission",0.0125897621380853,5.88235294117647
+"C5","maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",0.0134832984972708,5.88235294117647
+"C5","locomotor rhythm",0.0134832984972708,5.88235294117647
+"C5","positive regulation of meiotic nuclear division",0.0143760737927483,5.88235294117647
+"C5","regulation of acrosome reaction",0.0143760737927483,5.88235294117647
+"C5","neurotransmitter transport",0.0147178321471704,11.7647058823529
+"C5","neuron cell-cell adhesion",0.0152680886322674,5.88235294117647
+"C5","embryonic digestive tract morphogenesis",0.0152680886322674,5.88235294117647
+"C5","regulation of fertilization",0.0152680886322674,5.88235294117647
+"C5","postsynaptic density assembly",0.0152680886322674,5.88235294117647
+"C5","regulation of postsynaptic neurotransmitter receptor activity",0.0152680886322674,5.88235294117647
+"C5","regulation of endothelial cell development",0.0152680886322674,5.88235294117647
+"C5","regulation of establishment of endothelial barrier",0.0152680886322674,5.88235294117647
+"C5","potassium ion transmembrane transport",0.0163738321826057,11.7647058823529
+"C5","G protein-coupled acetylcholine receptor signaling pathway",0.0170498393721603,5.88235294117647
+"C5","vocalization behavior",0.0170498393721603,5.88235294117647
+"C5","gonad development",0.0173753338880888,11.7647058823529
+"C5","postsynaptic specialization assembly",0.0179395764857682,5.88235294117647
+"C5","negative regulation of transcription regulatory region DNA binding",0.0179395764857682,5.88235294117647
+"C5","regulation of skeletal muscle cell differentiation",0.0179395764857682,5.88235294117647
+"C5","development of primary sexual characteristics",0.0181064786085953,11.7647058823529
+"C5","regulation of hippo signaling",0.0188285555698867,5.88235294117647
+"C5","muscle cell cellular homeostasis",0.0188285555698867,5.88235294117647
+"C5","lens morphogenesis in camera-type eye",0.019716777230002,5.88235294117647
+"C5","sympathetic nervous system development",0.019716777230002,5.88235294117647
+"C5","potassium ion transport",0.0199141276479682,11.7647058823529
+"C5","telencephalon development",0.0205330637781428,11.7647058823529
+"C5","ovulation",0.0206042420711506,5.88235294117647
+"C5","positive regulation of embryonic development",0.0206042420711506,5.88235294117647
+"C5","positive regulation of myoblast differentiation",0.0206042420711506,5.88235294117647
+"C5","branching involved in mammary gland duct morphogenesis",0.0206042420711506,5.88235294117647
+"C5","startle response",0.0214909506979171,5.88235294117647
+"C5","positive regulation of glycoprotein biosynthetic process",0.0214909506979171,5.88235294117647
+"C5","neuroepithelial cell differentiation",0.0214909506979171,5.88235294117647
+"C5","negative regulation of mononuclear cell migration",0.0214909506979171,5.88235294117647
+"C5","synapse maturation",0.0223769037144345,5.88235294117647
+"C5","excitatory synapse assembly",0.0223769037144345,5.88235294117647
+"C5","positive regulation of excitatory postsynaptic potential",0.0223769037144345,5.88235294117647
+"C5","embryonic camera-type eye morphogenesis",0.023262101724387,5.88235294117647
+"C5","positive regulation of meiotic cell cycle",0.023262101724387,5.88235294117647
+"C5","secondary palate development",0.023262101724387,5.88235294117647
+"C5","response to auditory stimulus",0.0241465453310071,5.88235294117647
+"C5","positive regulation of glycoprotein metabolic process",0.0241465453310071,5.88235294117647
+"C5","positive regulation of nervous system development",0.0242472077145665,11.7647058823529
+"C5","maturation of LSU-rRNA",0.0250302351370784,5.88235294117647
+"C5","positive regulation of synaptic transmission, glutamatergic",0.025913171744934,5.88235294117647
+"C5","acetylcholine receptor signaling pathway",0.025913171744934,5.88235294117647
+"C5","postsynapse assembly",0.025913171744934,5.88235294117647
+"C5","sex differentiation",0.0261148823803783,11.7647058823529
+"C5","regulation of glial cell proliferation",0.0267953557564592,5.88235294117647
+"C5","mammary gland duct morphogenesis",0.0267953557564592,5.88235294117647
+"C5","interleukin-1-mediated signaling pathway",0.0267953557564592,5.88235294117647
+"C5","postsynaptic density organization",0.0276767877730888,5.88235294117647
+"C5","cellular response to acetylcholine",0.0276767877730888,5.88235294117647
+"C5","positive regulation of stem cell proliferation",0.0276767877730888,5.88235294117647

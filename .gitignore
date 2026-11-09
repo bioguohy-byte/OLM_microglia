@@ -1,0 +1,12 @@
+.DS_Store
+.Rhistory
+.RData
+.Renviron
+.env
+__pycache__/
+*.rds
+*.qs
+*.qsm
+*.fastq*
+*.fq*
+*.bam

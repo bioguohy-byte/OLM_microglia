@@ -1,0 +1,101 @@
+"group","Description","pvalue","ratio"
+"C3","myelination",1.84004635930018e-14,7.14285714285714
+"C3","ensheathment of neurons",2.44168595558851e-14,7.14285714285714
+"C3","axon ensheathment",2.44168595558851e-14,7.14285714285714
+"C3","central nervous system myelination",3.41042168650342e-11,3.21428571428571
+"C3","axon ensheathment in central nervous system",3.41042168650342e-11,3.21428571428571
+"C3","glial cell differentiation",1.02783472835919e-10,7.14285714285714
+"C3","oligodendrocyte differentiation",1.14786716877212e-10,5
+"C3","cell junction assembly",1.94863677879917e-10,9.64285714285714
+"C3","gliogenesis",4.94909624357531e-10,7.85714285714286
+"C3","oligodendrocyte development",9.19765968087496e-09,3.21428571428571
+"C3","axon development",1.48167351554112e-08,9.28571428571429
+"C3","glial cell development",1.69482246704965e-08,4.64285714285714
+"C3","axonogenesis",3.22597941242775e-08,8.57142857142857
+"C3","actin filament organization",1.16620515918751e-06,7.85714285714286
+"C3","synapse organization",1.38596124576553e-06,7.5
+"C3","axon guidance",2.45142552198668e-06,5.35714285714286
+"C3","neuron projection guidance",2.58403624684798e-06,5.35714285714286
+"C3","regulation of neuron projection development",7.86196124217469e-06,7.14285714285714
+"C3","regulation of nervous system development",1.06408361766912e-05,7.14285714285714
+"C3","maintenance of blood-brain barrier",1.16791120792085e-05,2.14285714285714
+"C3","presynaptic membrane organization",1.46363753606218e-05,1.42857142857143
+"C3","regulation of glial cell differentiation",1.55852660027641e-05,2.85714285714286
+"C3","regulation of cell junction assembly",5.0410596286113e-05,4.28571428571429
+"C3","protein localization to cell surface",7.39538567884958e-05,2.5
+"C3","cell-cell adhesion via plasma-membrane adhesion molecules",8.08505371961368e-05,5
+"C3","cell-cell junction assembly",8.10482396024776e-05,3.57142857142857
+"C3","regulation of ruffle assembly",8.74747588943008e-05,1.78571428571429
+"C3","regulation of actin filament-based process",9.0429282545598e-05,6.07142857142857
+"C3","neuron cell-cell adhesion",9.83647370483585e-05,1.42857142857143
+"C3","cell-substrate adhesion",0.000120914846236902,5.71428571428571
+"C3","negative regulation of cell projection organization",0.000123729094180309,3.92857142857143
+"C3","myelin maintenance",0.000124992165253173,1.42857142857143
+"C3","peripheral nervous system development",0.000161612696636725,2.5
+"C3","regulation of ion transmembrane transporter activity",0.000168022291172371,4.64285714285714
+"C3","dendrite development",0.000188673180541828,4.28571428571429
+"C3","negative regulation of neuron projection development",0.000204150825679872,3.21428571428571
+"C3","regulation of transporter activity",0.000205491050326267,5
+"C3","positive regulation of nervous system development",0.000217328565500381,4.64285714285714
+"C3","dendritic spine morphogenesis",0.000218674488360387,2.14285714285714
+"C3","focal adhesion assembly",0.000238445409496026,2.5
+"C3","dendrite morphogenesis",0.000240453484754628,3.21428571428571
+"C3","regulation of receptor-mediated endocytosis",0.000241771979308984,2.85714285714286
+"C3","regulation of transmembrane transporter activity",0.000241983872888083,4.64285714285714
+"C3","modulation of chemical synaptic transmission",0.000256316807547934,6.07142857142857
+"C3","regulation of trans-synaptic signaling",0.000263349191606198,6.07142857142857
+"C3","cell-cell junction organization",0.000263372826362165,3.92857142857143
+"C3","regulation of cation transmembrane transport",0.000274114805472411,5.35714285714286
+"C3","myelin assembly",0.000285098888993481,1.42857142857143
+"C3","ionotropic glutamate receptor signaling pathway",0.000285098888993481,1.42857142857143
+"C3","ligand-gated ion channel signaling pathway",0.000285098888993481,1.42857142857143
+"C3","regulation of endocytosis",0.000298346455409292,3.92857142857143
+"C3","regulation of oligodendrocyte differentiation",0.000303673262776422,1.78571428571429
+"C3","receptor-mediated endocytosis",0.000335767328621573,4.28571428571429
+"C3","regulation of neurogenesis",0.000358140063788957,5.35714285714286
+"C3","presynaptic membrane assembly",0.000362968784161079,1.07142857142857
+"C3","neuron projection organization",0.00036686859236139,2.5
+"C3","synapse assembly",0.000378719426469164,3.57142857142857
+"C3","regulation of cation channel activity",0.000378719426469164,3.57142857142857
+"C3","regulation of sodium ion transport",0.000392826930859706,2.5
+"C3","cell-substrate junction assembly",0.000449146754906093,2.5
+"C3","positive regulation of cellular component biogenesis",0.0004651409895072,6.42857142857143
+"C3","ruffle assembly",0.000477475187648635,1.78571428571429
+"C3","regulation of sodium ion transmembrane transport",0.000482195380701136,2.14285714285714
+"C3","clathrin-dependent endocytosis",0.000530693216723116,1.78571428571429
+"C3","regulation of cell development",0.000535806669354539,6.42857142857143
+"C3","plasma membrane organization",0.000562011463343601,3.21428571428571
+"C3","regulation of cell morphogenesis involved in differentiation",0.000581071023758024,2.5
+"C3","protein localization to cell junction",0.000581071023758024,2.5
+"C3","positive regulation of cell projection organization",0.000629691052704346,5
+"C3","cell-substrate junction organization",0.00065767733074978,2.5
+"C3","regulation of membrane potential",0.000674946181299542,5.71428571428571
+"C3","regulation of plasma membrane bounded cell projection assembly",0.000708301668024803,3.57142857142857
+"C3","negative regulation of neuron differentiation",0.000709590963973951,2.14285714285714
+"C3","regulation of myelination",0.000717250105117343,1.78571428571429
+"C3","regulation of gliogenesis",0.000742081614726477,2.5
+"C3","transmission of nerve impulse",0.000763628293284938,2.14285714285714
+"C3","regulation of cell projection assembly",0.000766210707099675,3.57142857142857
+"C3","postsynapse organization",0.000770391928253715,3.21428571428571
+"C3","neuron recognition",0.000789153844039836,1.78571428571429
+"C3","multicellular organismal signaling",0.000804723081475867,3.21428571428571
+"C3","actomyosin structure organization",0.000827964418520086,3.57142857142857
+"C3","regulation of ion transmembrane transport",0.000830940348105908,6.07142857142857
+"C3","G protein-coupled adenosine receptor signaling pathway",0.000836867522103338,1.07142857142857
+"C3","G protein-coupled purinergic receptor signaling pathway",0.000836867522103338,1.07142857142857
+"C3","regulation of actin cytoskeleton organization",0.000857017336536684,5
+"C3","actin filament-based movement",0.000862408198862441,2.85714285714286
+"C3","presynapse assembly",0.000866300758321464,1.78571428571429
+"C3","cardiac muscle cell action potential",0.00101223899823125,2.14285714285714
+"C3","glutamate receptor signaling pathway",0.00103726859358202,1.78571428571429
+"C3","presynapse organization",0.00103726859358202,1.78571428571429
+"C3","positive regulation of ion transmembrane transporter activity",0.00104769405987433,2.5
+"C3","dendritic spine organization",0.0012362655582235,2.14285714285714
+"C3","positive regulation of ruffle assembly",0.00130233080861533,1.07142857142857
+"C3","sodium ion transport",0.00132422451886715,3.92857142857143
+"C3","sodium ion transmembrane transport",0.00137601022222831,3.21428571428571
+"C3","action potential",0.00137729073265527,2.85714285714286
+"C3","negative regulation of stress fiber assembly",0.00140240957525711,1.42857142857143
+"C3","cellular component assembly involved in morphogenesis",0.00144449069133686,2.5
+"C3","ruffle organization",0.00145266754936281,1.78571428571429
+"C3","protein dephosphorylation",0.00146080075565314,4.28571428571429

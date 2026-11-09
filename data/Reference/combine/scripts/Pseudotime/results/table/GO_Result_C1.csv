@@ -1,0 +1,101 @@
+"group","Description","pvalue","ratio"
+"C1","iron ion transport",2.43333905399148e-06,33.3333333333333
+"C1","cellular iron ion homeostasis",3.41944806904231e-06,33.3333333333333
+"C1","iron ion homeostasis",7.34709409332307e-06,33.3333333333333
+"C1","transition metal ion transport",1.23488975801373e-05,33.3333333333333
+"C1","cellular transition metal ion homeostasis",1.82344621604263e-05,33.3333333333333
+"C1","sequestering of metal ion",2.43619170594887e-05,22.2222222222222
+"C1","transition metal ion homeostasis",3.21604789767818e-05,33.3333333333333
+"C1","maintenance of location in cell",0.000124368681676255,33.3333333333333
+"C1","maintenance of location",0.00041991230945806,33.3333333333333
+"C1","carboxylic acid transmembrane transport",0.00225240117203605,22.2222222222222
+"C1","organic acid transmembrane transport",0.0022816670014228,22.2222222222222
+"C1","import across plasma membrane",0.0034193007987676,22.2222222222222
+"C1","long-chain fatty acid import across plasma membrane",0.00477807560940602,11.1111111111111
+"C1","NAD biosynthesis via nicotinamide riboside salvage pathway",0.00477807560940602,11.1111111111111
+"C1","thyroid hormone transport",0.00477807560940602,11.1111111111111
+"C1","manganese ion transmembrane transport",0.00477807560940602,11.1111111111111
+"C1","regulation of dendritic cell antigen processing and presentation",0.0052547651953303,11.1111111111111
+"C1","import into cell",0.00541828915736945,22.2222222222222
+"C1","nucleotide biosynthetic process",0.0061954656602565,22.2222222222222
+"C1","aromatic amino acid transport",0.00620753554663267,11.1111111111111
+"C1","nucleoside phosphate biosynthetic process",0.00629009252020169,22.2222222222222
+"C1","dendritic cell antigen processing and presentation",0.00715949464122423,11.1111111111111
+"C1","manganese ion transport",0.00763517015616866,11.1111111111111
+"C1","MHC class II biosynthetic process",0.00763517015616866,11.1111111111111
+"C1","long-chain fatty acid import into cell",0.00811064308358556,11.1111111111111
+"C1","positive regulation of nitric-oxide synthase biosynthetic process",0.00811064308358556,11.1111111111111
+"C1","positive regulation of T-helper 1 type immune response",0.00858591349897453,11.1111111111111
+"C1","lipid import into cell",0.00858591349897453,11.1111111111111
+"C1","fatty acid transmembrane transport",0.00858591349897453,11.1111111111111
+"C1","long-chain fatty-acyl-CoA biosynthetic process",0.00906098147781076,11.1111111111111
+"C1","organic acid transport",0.00949242791870883,22.2222222222222
+"C1","regulation of antigen processing and presentation",0.00953584709554667,11.1111111111111
+"C1","thyroid hormone generation",0.0100105104276095,11.1111111111111
+"C1","negative regulation of bone mineralization",0.0100105104276095,11.1111111111111
+"C1","nitric-oxide synthase biosynthetic process",0.0100105104276095,11.1111111111111
+"C1","regulation of nitric-oxide synthase biosynthetic process",0.0100105104276095,11.1111111111111
+"C1","iron ion transmembrane transport",0.0104849715494029,11.1111111111111
+"C1","vacuolar acidification",0.0114332874636724,11.1111111111111
+"C1","long-chain fatty-acyl-CoA metabolic process",0.0119071424068358,11.1111111111111
+"C1","xenobiotic catabolic process",0.0119071424068358,11.1111111111111
+"C1","fatty-acyl-CoA biosynthetic process",0.0119071424068358,11.1111111111111
+"C1","positive regulation of fatty acid transport",0.0119071424068358,11.1111111111111
+"C1","negative regulation of cytokine production",0.012236028491052,22.2222222222222
+"C1","NAD biosynthetic process",0.0123807954411009,11.1111111111111
+"C1","defense response to protozoan",0.0123807954411009,11.1111111111111
+"C1","response to protozoan",0.0128542466417524,11.1111111111111
+"C1","thyroid hormone metabolic process",0.0128542466417524,11.1111111111111
+"C1","nicotinamide nucleotide biosynthetic process",0.0133274960840484,11.1111111111111
+"C1","pyridine nucleotide biosynthetic process",0.0133274960840484,11.1111111111111
+"C1","regulation of T-helper 1 type immune response",0.0138005438432242,11.1111111111111
+"C1","negative regulation of fibroblast proliferation",0.0142733899944899,11.1111111111111
+"C1","negative regulation of biomineral tissue development",0.0142733899944899,11.1111111111111
+"C1","positive regulation of protein kinase activity",0.0144460266015329,22.2222222222222
+"C1","pyridine-containing compound biosynthetic process",0.0147460346130327,11.1111111111111
+"C1","negative regulation of biomineralization",0.0147460346130327,11.1111111111111
+"C1","pyridine nucleotide metabolic process",0.0152184777740151,11.1111111111111
+"C1","nicotinamide nucleotide metabolic process",0.0152184777740151,11.1111111111111
+"C1","regulation of fatty acid transport",0.0156907195525765,11.1111111111111
+"C1","very long-chain fatty acid metabolic process",0.0166345992628686,11.1111111111111
+"C1","negative regulation of ossification",0.0175776743445384,11.1111111111111
+"C1","cell redox homeostasis",0.0175776743445384,11.1111111111111
+"C1","respiratory burst",0.0175776743445384,11.1111111111111
+"C1","secretory granule organization",0.0180489103372313,11.1111111111111
+"C1","fatty-acyl-CoA metabolic process",0.0180489103372313,11.1111111111111
+"C1","pyridine-containing compound metabolic process",0.0180489103372313,11.1111111111111
+"C1","triglyceride biosynthetic process",0.0189907796013067,11.1111111111111
+"C1","positive regulation of kinase activity",0.0204691935944183,22.2222222222222
+"C1","intracellular pH reduction",0.0208721093425565,11.1111111111111
+"C1","positive regulation of organic acid transport",0.0213419403841388,11.1111111111111
+"C1","thioester biosynthetic process",0.0213419403841388,11.1111111111111
+"C1","T-helper 1 type immune response",0.0213419403841388,11.1111111111111
+"C1","vitamin transport",0.0213419403841388,11.1111111111111
+"C1","acyl-CoA biosynthetic process",0.0213419403841388,11.1111111111111
+"C1","nucleotide metabolic process",0.0213685392302776,22.2222222222222
+"C1","nucleoside phosphate metabolic process",0.0220331113573982,22.2222222222222
+"C1","acute-phase response",0.0227502313612591,11.1111111111111
+"C1","neutral lipid biosynthetic process",0.0227502313612591,11.1111111111111
+"C1","acylglycerol biosynthetic process",0.0227502313612591,11.1111111111111
+"C1","metal ion export",0.0232192612203539,11.1111111111111
+"C1","fatty acid derivative biosynthetic process",0.0236880909707152,11.1111111111111
+"C1","mRNA stabilization",0.0269643024510852,11.1111111111111
+"C1","nucleoside bisphosphate biosynthetic process",0.0283653989177174,11.1111111111111
+"C1","ribonucleoside bisphosphate biosynthetic process",0.0283653989177174,11.1111111111111
+"C1","purine nucleoside bisphosphate biosynthetic process",0.0283653989177174,11.1111111111111
+"C1","water-soluble vitamin metabolic process",0.029764701789794,11.1111111111111
+"C1","antigen processing and presentation of peptide antigen",0.029764701789794,11.1111111111111
+"C1","response to fatty acid",0.029764701789794,11.1111111111111
+"C1","maintenance of protein location in cell",0.0302307378512708,11.1111111111111
+"C1","long-chain fatty acid transport",0.0311622130766767,11.1111111111111
+"C1","RNA stabilization",0.0311622130766767,11.1111111111111
+"C1","negative regulation of mRNA catabolic process",0.0311622130766767,11.1111111111111
+"C1","positive regulation of lipid transport",0.032557934785796,11.1111111111111
+"C1","circadian regulation of gene expression",0.032557934785796,11.1111111111111
+"C1","regulation of organic acid transport",0.0330227780182409,11.1111111111111
+"C1","positive regulation of phagocytosis",0.0334874227057921,11.1111111111111
+"C1","fatty acid derivative metabolic process",0.0348801662410299,11.1111111111111
+"C1","positive regulation of interferon-gamma production",0.0362711255422343,11.1111111111111
+"C1","regulation of intracellular pH",0.0362711255422343,11.1111111111111
+"C1","negative regulation of RNA catabolic process",0.0367343824919818,11.1111111111111
+"C1","glucose import",0.037197441489822,11.1111111111111

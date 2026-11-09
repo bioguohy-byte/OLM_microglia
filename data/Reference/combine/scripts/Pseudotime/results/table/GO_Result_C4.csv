@@ -1,0 +1,101 @@
+"group","Description","pvalue","ratio"
+"C4","cytoplasmic translation",1.98931767636159e-51,64.4444444444444
+"C4","negative regulation of ubiquitin protein ligase activity",4.88581972426651e-11,11.1111111111111
+"C4","ribosome biogenesis",1.0273914822178e-10,24.4444444444444
+"C4","ribonucleoprotein complex biogenesis",4.08609791798116e-10,26.6666666666667
+"C4","ribosomal small subunit biogenesis",4.40841894785192e-10,15.5555555555556
+"C4","negative regulation of ubiquitin-protein transferase activity",1.59595417217725e-09,11.1111111111111
+"C4","regulation of ubiquitin protein ligase activity",2.56679807470545e-09,11.1111111111111
+"C4","rRNA processing",2.72059800002103e-09,20
+"C4","ribosome assembly",7.39628345354288e-09,13.3333333333333
+"C4","rRNA metabolic process",1.05593127525308e-08,20
+"C4","negative regulation of protein ubiquitination",4.70261792884853e-08,13.3333333333333
+"C4","negative regulation of protein modification by small protein conjugation or removal",1.04982414180738e-07,13.3333333333333
+"C4","regulation of ubiquitin-protein transferase activity",2.17941478040978e-07,11.1111111111111
+"C4","ribonucleoprotein complex assembly",4.47358123787266e-07,15.5555555555556
+"C4","positive regulation of signal transduction by p53 class mediator",5.6223181188437e-07,8.88888888888889
+"C4","ribonucleoprotein complex subunit organization",5.82782409208618e-07,15.5555555555556
+"C4","ncRNA processing",5.98569565385481e-07,20
+"C4","regulation of signal transduction by p53 class mediator",4.59508700222594e-06,11.1111111111111
+"C4","regulation of protein ubiquitination",1.11055695561964e-05,13.3333333333333
+"C4","ribosomal small subunit assembly",1.2089403134257e-05,6.66666666666667
+"C4","regulation of protein modification by small protein conjugation or removal",2.50892160098198e-05,13.3333333333333
+"C4","ribosomal large subunit biogenesis",2.61630153515272e-05,8.88888888888889
+"C4","ribosomal large subunit assembly",3.60070632111077e-05,6.66666666666667
+"C4","signal transduction by p53 class mediator",5.19714682854485e-05,11.1111111111111
+"C4","regulation of neuron projection development",6.77680126125172e-05,15.5555555555556
+"C4","prepulse inhibition",0.000364160690578552,4.44444444444444
+"C4","negative regulation of transferase activity",0.000449761365663757,11.1111111111111
+"C4","ionotropic glutamate receptor signaling pathway",0.00125530054381074,4.44444444444444
+"C4","ligand-gated ion channel signaling pathway",0.00125530054381074,4.44444444444444
+"C4","regulation of cell junction assembly",0.00134106553373919,8.88888888888889
+"C4","synaptic transmission, glutamatergic",0.00147538341536536,6.66666666666667
+"C4","startle response",0.00149528285949035,4.44444444444444
+"C4","regulation of synapse organization",0.00154783396041046,8.88888888888889
+"C4","regulation of synapse structure or activity",0.00171681970747504,8.88888888888889
+"C4","regulation of synapse assembly",0.00191758443917081,6.66666666666667
+"C4","positive regulation of cell junction assembly",0.00202585989778593,6.66666666666667
+"C4","maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",0.0037284707422122,4.44444444444444
+"C4","regulation of intrinsic apoptotic signaling pathway in response to DNA damage",0.0037284707422122,4.44444444444444
+"C4","erythrocyte homeostasis",0.00395387753068845,6.66666666666667
+"C4","regulation of translation",0.00481505232038553,11.1111111111111
+"C4","learning",0.00503198445774009,6.66666666666667
+"C4","neuron maturation",0.00519515714552359,4.44444444444444
+"C4","protein-containing complex localization",0.0060535698834963,6.66666666666667
+"C4","neuron recognition",0.00613391412622153,4.44444444444444
+"C4","negative regulation of ubiquitin-dependent protein catabolic process",0.00613391412622153,4.44444444444444
+"C4","myeloid cell homeostasis",0.00660756637556831,6.66666666666667
+"C4","maturation of SSU-rRNA",0.00663016917623744,4.44444444444444
+"C4","glutamate receptor signaling pathway",0.00688493955260439,4.44444444444444
+"C4","translational elongation",0.00767556276273487,4.44444444444444
+"C4","receptor localization to synapse",0.00794780292393222,4.44444444444444
+"C4","synapse assembly",0.00912065228538962,6.66666666666667
+"C4","positive regulation of synapse assembly",0.00997308859463254,4.44444444444444
+"C4","negative regulation of proteolysis involved in cellular protein catabolic process",0.0105895552515669,4.44444444444444
+"C4","negative regulation of cellular protein catabolic process",0.0146291524499432,4.44444444444444
+"C4","negative regulation of response to DNA damage stimulus",0.0164793161384851,4.44444444444444
+"C4","synapse organization",0.0176500323834539,8.88888888888889
+"C4","dendrite development",0.0177859080298573,6.66666666666667
+"C4","cell junction assembly",0.0177891296869546,8.88888888888889
+"C4","regulation of nervous system development",0.0207168631651522,8.88888888888889
+"C4","regulation of dendrite development",0.0230238147420755,4.44444444444444
+"C4","heart induction",0.0236855949359304,2.22222222222222
+"C4","regulation of deoxyribonuclease activity",0.0236855949359304,2.22222222222222
+"C4","netrin-activated signaling pathway",0.0236855949359304,2.22222222222222
+"C4","regulation of chemokine-mediated signaling pathway",0.0236855949359304,2.22222222222222
+"C4","regulation of postsynaptic density assembly",0.0236855949359304,2.22222222222222
+"C4","positive regulation of myoblast proliferation",0.0236855949359304,2.22222222222222
+"C4","regulation of protein neddylation",0.0236855949359304,2.22222222222222
+"C4","intrinsic apoptotic signaling pathway in response to DNA damage",0.0243524381420048,4.44444444444444
+"C4","learning or memory",0.0251870259414338,6.66666666666667
+"C4","formation of translation preinitiation complex",0.0260237614195853,2.22222222222222
+"C4","olfactory bulb interneuron differentiation",0.0260237614195853,2.22222222222222
+"C4","neuronal ion channel clustering",0.0260237614195853,2.22222222222222
+"C4","regulation of postsynaptic specialization assembly",0.0260237614195853,2.22222222222222
+"C4","regulation of heart morphogenesis",0.0260237614195853,2.22222222222222
+"C4","positive regulation of nervous system development",0.0266861485894138,6.66666666666667
+"C4","thalamus development",0.0283564523949495,2.22222222222222
+"C4","auditory behavior",0.0283564523949495,2.22222222222222
+"C4","cerebral cortex development",0.0294842080761409,4.44444444444444
+"C4","homeostasis of number of cells",0.0298259039606687,6.66666666666667
+"C4","positive regulation of cellular component biogenesis",0.0300496827299728,8.88888888888889
+"C4","cytoplasmic translational elongation",0.0306836803937909,2.22222222222222
+"C4","cerebellar granular layer development",0.0306836803937909,2.22222222222222
+"C4","regulation of long-term synaptic depression",0.0306836803937909,2.22222222222222
+"C4","regulation of excitatory synapse assembly",0.0306836803937909,2.22222222222222
+"C4","regulation of postsynaptic density organization",0.0306836803937909,2.22222222222222
+"C4","positive regulation of MAP kinase activity",0.0314484519281499,4.44444444444444
+"C4","ribosomal subunit export from nucleus",0.0330054579198611,2.22222222222222
+"C4","mechanosensory behavior",0.0330054579198611,2.22222222222222
+"C4","neuron remodeling",0.0330054579198611,2.22222222222222
+"C4","ribosome localization",0.0330054579198611,2.22222222222222
+"C4","cellular response to antibiotic",0.0330054579198611,2.22222222222222
+"C4","postsynaptic modulation of chemical synaptic transmission",0.0330054579198611,2.22222222222222
+"C4","translational initiation",0.0334632669138079,4.44444444444444
+"C4","regulation of mammary gland epithelial cell proliferation",0.0353217974489575,2.22222222222222
+"C4","lipid phosphorylation",0.0353217974489575,2.22222222222222
+"C4","erythrocyte differentiation",0.0355275557593684,4.44444444444444
+"C4","negative regulation of protein catabolic process",0.0355275557593684,4.44444444444444
+"C4","positive regulation of cysteine-type endopeptidase activity involved in apoptotic process",0.0360512311543373,4.44444444444444
+"C4","cognition",0.0366684666631505,6.66666666666667
+"C4","positive regulation of T cell receptor signaling pathway",0.0376327114289836,2.22222222222222
